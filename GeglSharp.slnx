@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="GeglSharp.Testing/GeglSharp.Testing.csproj" />
+  <Project Path="GeglSharp/GeglSharp.csproj" />
+</Solution>
